@@ -1,2 +1,2 @@
 # node-boiler-plate
-setup a node.js-express boiler project with this - and test out your next cool idea!
+simulating an otp service flow using temporal.io platform
